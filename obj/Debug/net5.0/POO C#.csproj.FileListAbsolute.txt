@@ -1,0 +1,16 @@
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.exe
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.deps.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.runtimeconfig.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.runtimeconfig.dev.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\ref\POO C#.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\bin\Debug\net5.0\POO C#.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.csprojAssemblyReference.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.AssemblyInfoInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.AssemblyInfo.cs
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.csproj.CoreCompileInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\ref\POO C#.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\POO C#\obj\Debug\net5.0\POO C#.genruntimeconfig.cache
